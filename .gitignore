@@ -163,6 +163,5 @@ cython_debug/
 .pth 
 .vscode/
 .ipynb_checkpoints/
-
-.data/
+__pycache__/
 .png
