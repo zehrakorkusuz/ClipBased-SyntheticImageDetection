@@ -1,0 +1,18 @@
+params,train_accuracy,train_precision,train_recall,train_f1,train_auc,val_accuracy,val_precision,val_recall,val_f1,val_auc
+
+TO_ADD: the last train date/time and metrics of the best in that session
+
+Evaluating parameters: {'C': 0.1, 'gamma': 0.1, 'kernel': 'poly'}
+Fold Metrics: Accuracy: 0.9972, Precision: 0.9950, Recall: 0.9995, F1: 0.9973, AUC: 1.0000
+Fold Metrics: Accuracy: 0.9985, Precision: 0.9975, Recall: 0.9995, F1: 0.9985, AUC: 1.0000
+Fold Metrics: Accuracy: 0.9978, Precision: 0.9955, Recall: 1.0000, F1: 0.9978, AUC: 1.0000
+Fold Metrics: Accuracy: 0.9985, Precision: 0.9975, Recall: 0.9995, F1: 0.9985, AUC: 1.0000             A^[[A^[[A^[[A^[[A^[
+Fold Metrics: Accuracy: 0.9978, Precision: 0.9955, Recall: 1.0000, F1: 0.9978, AUC: 1.0000             [[B^[[B^[[B^[[B^[[B
+Mean Metrics: Accuracy: 0.9980, Precision: 0.9962, Recall: 0.9997, F1: 0.9980, AUC: 1.0000             A^[[A^[[A^[[A^[[A^[
+Evaluating parameters: {'C': 0.1, 'gamma': 0.1, 'kernel': 'sigmoid'}                                   [[B^[[B^[[B^[[B^[[B
+Fold Metrics: Accuracy: 0.9387, Precision: 0.9372, Recall: 0.9405, F1: 0.9389, AUC: 0.9874             B^[[B^[[B^[[B^[[B^[
+Fold Metrics: Accuracy: 0.9333, Precision: 0.9352, Recall: 0.9310, F1: 0.9331, AUC: 0.9792
+Fold Metrics: Accuracy: 0.9425, Precision: 0.9456, Recall: 0.9390, F1: 0.9423, AUC: 0.9820             B^[[B^[[B^[[B^[[B^[
+Fold Metrics: Accuracy: 0.9403, Precision: 0.9418, Recall: 0.9385, F1: 0.9401, AUC: 0.9893             ^[[B^[[B^[[B^[[B^[[
+Fold Metrics: Accuracy: 0.9277, Precision: 0.9258, Recall: 0.9300, F1: 0.9279, AUC: 0.9785             [A^[[A^[[A^[[A^[[A^
+Mean Metrics: Accuracy: 0.9365, Precision: 0.9371, Recall: 0.9358, F1: 0.9365, AUC: 0.9833

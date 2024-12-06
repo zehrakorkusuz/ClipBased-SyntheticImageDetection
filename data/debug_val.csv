@@ -1,0 +1,11 @@
+filename,typ,sizex,sizey
+GigaGAN_cond_imagenet256/105_20353.png,gigaGAN@imagenet_valid,256,256
+gaugan/000000393056.png,gauGAN@coco_valid,256,256
+stargan/Black_Hair_imgHQ23029.png,starGAN@ffhq,256,256
+real_ffhq/001368.png,real@ffhq,1024,1024
+real_coco_valid/000000468233.jpg,real@coco_valid,600,399
+GigaGAN_t2i_coco256_diff_noised/08367.png,gigaGAN@coco_valid,512,512
+GigaGAN_t2i_coco256_diff_noised/15424.png,gigaGAN@coco_valid,512,512
+GigaGAN_t2i_coco256_rep/05395.png,gigaGAN@coco_valid,512,512
+stylegan2_ffhq_1024x1024/seed13742828.png,styleGAN2@ffhq,1024,1024
+real_lsun/cat_16841.png,real@lsun,256,256
